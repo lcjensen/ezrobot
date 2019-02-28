@@ -1,0 +1,11 @@
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\bin\x86\Debug\SpeechMarkup.dll
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\bin\x86\Debug\SpeechMarkup.pdb
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\obj\x86\Debug\SpeechMarkup.csproj.GenerateResource.Cache
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\bin\x86\Debug\plugin.xml
+C:\Users\Public\Documents\EZ-Builder\Plugins\bc78a236-2f19-412d-8d25-357f0531b005\plugin.xml
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\obj\x86\Debug\SpeechMarkup.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\EZ-Builder\Plugins\bc78a236-2f19-412d-8d25-357f0531b005\SpeechMarkup.dll
+C:\Users\Public\Documents\EZ-Builder\Plugins\bc78a236-2f19-412d-8d25-357f0531b005\SpeechMarkup.pdb
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\obj\x86\Debug\SpeechMarkup.dll
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\obj\x86\Debug\SpeechMarkup.pdb
+C:\Users\larscj\Documents\Visual Studio 2015\Projects\SpeechMarkup\SpeechMarkup\obj\x86\Debug\SpeechMarkup.Form1.resources

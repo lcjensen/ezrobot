@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<PluginV1XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FRIENDLY_NAME>Speech Markup</FRIENDLY_NAME>
+  <DLL_FILENAME>SpeechMarkup.dll</DLL_FILENAME>
+  <AUTHOR_NAME>larschrjensen</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>bc78a236-2f19-412d-8d25-357f0531b005</PLUGIN_GUID>
+  <CATEGORY_TYPE>Beta</CATEGORY_TYPE>
+  <DESCRIPTION />
+  <VersionRelease>0</VersionRelease>
+</PluginV1XML>

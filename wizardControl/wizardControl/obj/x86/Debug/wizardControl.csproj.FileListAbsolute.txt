@@ -1,0 +1,11 @@
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\bin\x86\Debug\plugin.xml
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\bin\x86\Debug\wizardControl.dll
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\bin\x86\Debug\wizardControl.pdb
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\obj\x86\Debug\wizardControl.Form1.resources
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\obj\x86\Debug\wizardControl.csproj.GenerateResource.Cache
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\obj\x86\Debug\wizardControl.dll
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\obj\x86\Debug\wizardControl.pdb
+c:\users\Public\Documents\EZ-Builder\Plugins\660db248-6bef-4acf-92dc-41ab62ce5dbe\plugin.xml
+c:\users\Public\Documents\EZ-Builder\Plugins\660db248-6bef-4acf-92dc-41ab62ce5dbe\wizardControl.dll
+c:\users\Public\Documents\EZ-Builder\Plugins\660db248-6bef-4acf-92dc-41ab62ce5dbe\wizardControl.pdb
+c:\users\larscj\documents\visual studio 2015\Projects\wizardControl\wizardControl\obj\x86\Debug\wizardControl.csprojResolveAssemblyReference.cache

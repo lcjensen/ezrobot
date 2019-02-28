@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<PluginV1XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FRIENDLY_NAME>Wizard Control</FRIENDLY_NAME>
+  <DLL_FILENAME />
+  <AUTHOR_NAME>larschrjensen</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>660db248-6bef-4acf-92dc-41ab62ce5dbe</PLUGIN_GUID>
+  <CATEGORY_TYPE>Beta</CATEGORY_TYPE>
+  <DESCRIPTION />
+  <VersionRelease>0</VersionRelease>
+</PluginV1XML>

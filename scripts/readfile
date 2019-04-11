@@ -1,0 +1,26 @@
+$filename = "c:\test\test.txt"
+$foundword = 0
+
+FileReadReset($filename)
+
+:START
+
+  $txt = FileReadLine($filename)
+
+  $word = Split($txt, ",", 0)
+  $play = Split($txt, ",",1)
+  if($CameraQRCode =  $word)
+    playaudio($play)
+    $foundWord = $foundWord +1
+    goto(END)
+  endif 
+
+  if (FileReadEnd($filename) = true)
+      FileReadClose($filename)
+    print("End Of File")
+    goto(END)
+  endif
+
+goto(START)
+
+:END
